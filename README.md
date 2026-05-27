@@ -11,8 +11,6 @@ Transaction cost modeling
 
 Walk-forward validation
 
-Alpha stability testing
-
 Regularized optimization
 
 Institutional risk metrics

@@ -3,14 +3,14 @@ Designed and implemented institutional-grade multi-factor equity strategy on Fre
 
 
 
-Regime detection
+1. Regime detection
 
-Rolling beta modeling
+2. Rolling beta modeling
 
-Transaction cost modeling
+3. Transaction cost modeling
 
-Walk-forward validation
+4. Walk-forward validation
 
-Regularized optimization
+5. Regularized optimization
 
-Institutional risk metrics
+6. Institutional risk metrics
